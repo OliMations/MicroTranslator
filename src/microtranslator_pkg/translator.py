@@ -1,5 +1,4 @@
-import requests, uuid, logging
-logger = logging.getLogger('MicroTranslator')
+import requests, uuid
 
 
 class TranslatorException(Exception):
