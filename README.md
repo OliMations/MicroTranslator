@@ -1,6 +1,5 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/OliMations/MicroTranslator)
 ![PyPI](https://img.shields.io/pypi/v/MicroTranslator)
-![GitHub repo size](https://img.shields.io/github/repo-size/OliMations/MicroTranslator)
 ![GitHub file size in bytes](https://img.shields.io/github/size/OliMations/MicroTranslator/src/microtranslator/translator.py)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/MicroTranslator)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/MicroTranslator)
