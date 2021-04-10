@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/MicroTranslator.egg-info/PKG-INFO
+src/MicroTranslator.egg-info/SOURCES.txt
+src/MicroTranslator.egg-info/dependency_links.txt
+src/MicroTranslator.egg-info/top_level.txt
+src/microtranslator/__init__.py
+src/microtranslator/translator.py
