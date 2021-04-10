@@ -5,11 +5,11 @@ A lightweight, simple to use wrapper for the microsoft translate API that simply
 It saves you time whilst adding no more code to your project than necessary
 
 ## Installation
-For now download off git and put into your python packages folder, it will probably be on pypi eventually
+Just run `pip install MicroTranslator` in your command prompt of choice (Eg. Windows CMD or Powershell)
 
 ## Setup
 ```python
-from MicroTranslator import Translator
+from microtranslator import Translator
 
 tr = Translator(client_key="key")
 ```

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: MicroTranslator
-Version: 1.0.1
+Version: 1.0.2
 Summary: A lightweight, simple to use wrapper for the Microsoft translate API.
 Home-page: https://github.com/OliMations/MicroTranslator
 Author: OliMations
@@ -14,11 +14,11 @@ Description: # Microsoft Translate Wrapper
         It saves you time whilst adding no more code to your project than necessary
         
         ## Installation
-        For now download off git and put into your python packages folder, it will probably be on pypi eventually
+        Just run `pip install MicroTranslator` in your command prompt of choice (Eg. Windows CMD or Powershell)
         
         ## Setup
         ```python
-        from MicroTranslator import Translator
+        from microtranslator import Translator
         
         tr = Translator(client_key="key")
         ```
