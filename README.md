@@ -3,6 +3,7 @@
 ![GitHub file size in bytes](https://img.shields.io/github/size/OliMations/MicroTranslator/src/microtranslator/translator.py)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/MicroTranslator)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/MicroTranslator)
+[![Total Downloads](https://static.pepy.tech/personalized-badge/microtranslator?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Total%20Downloads)](https://pepy.tech/project/microtranslator)
 
 # Microsoft Translate Wrapper
 A lightweight, simple to use wrapper for the microsoft translate API that simply does the API call and returns the raw, unmanipulated result.
