@@ -6,13 +6,13 @@
 [![Total Downloads](https://static.pepy.tech/personalized-badge/microtranslator?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Total%20Downloads)](https://pepy.tech/project/microtranslator)
 
 # Microsoft Translate Wrapper
-A lightweight, simple to use wrapper for the microsoft translate API that simply does the API call and returns the raw, unmanipulated result.
+A lightweight, simple Python wrapper for the Microsoft (Bing) Translation API that does the API call and returns the raw, unmanipulated result.
 
 ## Why Should I Use This?
 It saves you time whilst adding no more code to your project than necessary
 
 ## Installation
-Just run `pip install MicroTranslator` in your command prompt of choice (Eg. Windows CMD or Powershell)
+Just run `pip install MicroTranslator` in your command prompt of choice (e.g. Windows CMD or Powershell)
 
 ## Setup
 ```python
